@@ -26,7 +26,7 @@
         "symfony/dependency-injection": "^4.4|^5.0",
         "symfony/framework-bundle": "^4.4|^5.0",
         "symfony/security-bundle": "^4.4|^5.0",
-        "friendsofsymfony/oauth2-php": "dev-symfony-5"
+        "neimheadh/oauth2-php": "2.0.1"
     },
     "require-dev": {
         "ext-pdo_sqlite": "*",
